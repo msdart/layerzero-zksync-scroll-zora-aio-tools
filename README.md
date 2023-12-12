@@ -15,8 +15,8 @@ This software is created to simplify the process of taking part in LayerZero air
 - Set `Rpcs`
 - Set `transaction options`
    - transactions - random transactions between random accounts in Arb and Op networks
-   - bridges - use Arb ans OP bridges
-   - luquidity - add liquidity pools for Stargate
-   - doublebridges - transfer prom Arb to Op and back
-   - shuffleOrder - shuffle transactions order
-   - randomGas - random gas fee
+   - bridges 
+   - luquidity 
+   - doublebridges 
+   - shuffleOrder 
+   - randomGas 
