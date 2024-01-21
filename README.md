@@ -9,7 +9,7 @@ This software is created to simplify the process of taking part in LayerZero air
 ### Dependencies
 - .Net Framework 4.5
 
-
+ updated for any chains
 ### Setup
 - Add private keys 
 - Set `Rpcs`
